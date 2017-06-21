@@ -1,8 +1,28 @@
 body {
-  padding: 50px;
+  padding: ;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: #26a69a;
 }
 
-a {
+nav {
+  background-color:#3b4654
+}
+
+#libraryPicture {
+  margin: 5px
+}
+
+#writePicture {
+  margin: 5px;
+  border-radius: 50%;
+}
+
+#profilePicture {
+  margin: 5px;
+}
+
+ {
   color: #00B7FF;
+
+
 }
