@@ -8,17 +8,22 @@ nav {
   background-color:#3b4654
 }
 
-#libraryPicture {
-  margin: 5px
+.img-circle{
+  margin: 15px -5px;
+  /*border-radius: 50%;*/
 }
 
-#writePicture {
-  margin: 5px;
-  border-radius: 50%;
+#webpageLogo {
+  width: 120px;
+  margin: 10px;
 }
 
-#profilePicture {
-  margin: 5px;
+#searchView {
+  width: 100px;
+}
+
+#searchBar {
+  margin: 50px
 }
 
  {
