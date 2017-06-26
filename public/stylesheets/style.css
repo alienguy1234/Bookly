@@ -18,8 +18,8 @@ nav {
   margin: 10px;
 }
 
- {
-  color: #00B7FF;
+.carousel.carousel-slider {
+    width: 100%;
+    min-height: 500px;
 
-
-}
+  }
