@@ -9,8 +9,10 @@ nav {
 }
 
 .img-circle{
-  margin: 15px -5px;
-  /*border-radius: 50%;*/
+  margin: 15px 65px;
+  border-radius: 100%;
+  width: 200px;
+  height: 200px;
 }
 
 #webpageLogo {
@@ -21,5 +23,8 @@ nav {
 .carousel.carousel-slider {
     width: 100%;
     min-height: 500px;
-
   }
+
+.values {
+  margin: 5% 30%
+}
