@@ -1,7 +1,7 @@
 body {
   padding: ;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-  background-color: #26a69a;
+  /*background-color: #26a69a;*/
 }
 
 nav {
@@ -27,4 +27,12 @@ nav {
 
 .values {
   margin: 5% 30%
+}
+
+.sectionHeadings {
+  text-align: center;
+}
+
+.valuesText {
+  text-align: center;
 }
